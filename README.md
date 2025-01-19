@@ -23,7 +23,9 @@
     yarn install
     ```
 
-    c. Start the server:
+    c. Rename .env.example to .env and update variables.
+
+    d. Start the server:
 
     for Mac:
 
@@ -37,4 +39,4 @@
     yarn startw
     ```
 
-    d. The application will run on: <http://localhost:3000>
+    e. The application will run on: <http://localhost:3000>
